@@ -1,3 +1,9 @@
+smarty3-artful (3.1.31-bb1) balabit-os-6.0; urgency=medium
+
+  * Renames source/package to avoid package name conflict with xenial.
+
+ -- Peter Somogyi <peter.somogyi@balabit.com>  Mon, 22 Jan 2018 13:34:10 +0100
+
 smarty3 (3.1.31+20161214.1.c7d42e4+selfpack1-2) unstable; urgency=medium
 
   * Re-upload to Debian unstable to enforce package rebuild (as we don't
