@@ -1,4 +1,4 @@
-Source: smarty3
+Source: smarty3-artful
 Section: web
 Priority: optional
 Maintainer: Mike Gabriel <sunweaver@debian.org>
@@ -13,7 +13,7 @@ Vcs-Browser: https://anonscm.debian.org/git/collab-maint/smarty3.git
 Vcs-Git: https://anonscm.debian.org/git/collab-maint/smarty3.git
 Homepage: http://www.smarty.net/
 
-Package: smarty3
+Package: smarty3-artful
 Architecture: all
 Depends:
  php | php-cgi | php-cli,
